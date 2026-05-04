@@ -16,13 +16,15 @@ A responsive weather application built using React that fetches real-time weathe
 - Weather API (OpenWeather or similar)
 
 ## 📸 Screenshots
-(Add your screenshots here)
+Mumbai(screenshots/mumbai.png)
+Hyderabad(screenshots/hyderabad.png)
+Vatican(screenshots/vatican.png)
 
 ## ⚙️ Setup
 1. Clone the repo
 2. Install dependencies:
    npm install
-3. Add your API key in `.env`
+3. Add your Weather API key in App.js 
 4. Run:
    npm start
 
